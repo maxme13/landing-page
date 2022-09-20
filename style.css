@@ -1,7 +1,11 @@
-.hero-header {
-    height: 500px;
-    background-color: #1f2937;
+.center {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.hero-header {
+    height: 500px;
+    width: 1000px;
+    background-color: #1f2937;
 }
